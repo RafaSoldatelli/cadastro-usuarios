@@ -14,6 +14,7 @@ Este projeto tem como objetivo fornecer uma API para cadastro, consulta, atualiz
 
 ## Estrutura do Projeto
 
+```
 cadastro-usuarios/
 ├── src/
 │   ├── main/
@@ -26,6 +27,7 @@ cadastro-usuarios/
 ├── mvnw.cmd
 ├── pom.xml
 
+```
 ## Como Executar
 
 1. **Clone o repositório:**
