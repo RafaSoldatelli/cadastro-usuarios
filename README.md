@@ -34,16 +34,8 @@ cadastro-usuarios/
 git clone https://github.com/RafaSoldatelli/cadastro-usuarios.git
 cd cadastro-usuarios
 
-text
-
 2. **Compile e execute o projeto:**
-./mvnw spring-boot:run
-
-text
-ou, se estiver no Windows:
-mvnw.cmd spring-boot:run
-
-text
+./mvnw spring-boot:run ou, se estiver no Windows:mvnw.cmd spring-boot:run
 
 3. **Acesse a API:**
 - Por padrão, a aplicação estará disponível em: `http://localhost:8080`
