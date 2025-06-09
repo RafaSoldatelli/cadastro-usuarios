@@ -16,17 +16,15 @@ Este projeto tem como objetivo fornecer uma API para cadastro, consulta, atualiz
 
 cadastro-usuarios/
 ├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ └── resources/
-│ └── test/
+│   ├── main/
+│   │   ├── java/
+│   │   └── resources/
+│   └── test/
 ├── .mvn/
 ├── .gitignore
 ├── mvnw
 ├── mvnw.cmd
 ├── pom.xml
-
-text
 
 ## Como Executar
 
